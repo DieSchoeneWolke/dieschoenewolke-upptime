@@ -3,26 +3,26 @@ repo: dieschoenewolke-upptime  # The name of this repository
 
 sites:
   - name: DieSchoeneWolke
-    url: https://dieschoenewolke.com
+    url: https://dieschoenewolke.de
   - name: DieSchoeneWolke Mail
-    url: https://mail.dieschoenewolke.com/
+    url: https://mail.dieschoenewolke.de/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.dieschoenewolke.com
+  cname: status.dieschoenewolke.de
   #baseUrl: /dieschoenewolke-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: DieSchoeneWolke Status
   introTitle: 
-  introMessage: Dies ist die Statusseite für [**DieSchoeneWolke**](https://dieschoenewolke.com) von unserem [GitHub repository](https://github.com/DieSchoeneWolke/dieschoenewolke-upptime).
+  introMessage: Dies ist die Statusseite für [**DieSchoeneWolke**](https://dieschoenewolke.de) von unserem [GitHub repository](https://github.com/DieSchoeneWolke/dieschoenewolke-upptime).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Kontakt
-      href: mailto://kontakt@mail.dieschoenewolke.com
+      href: mailto://kontakt@mail.dieschoenewolke.de
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
