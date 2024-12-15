@@ -4,7 +4,7 @@
     "url": "https://dieschoenewolke.de",
     "icon": "https://icons.duckduckgo.com/ip3/dieschoenewolke.de.ico",
     "slug": "die-schoene-wolke",
-    "status": "up",
+    "status": "down",
     "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
@@ -16,6 +16,7 @@
     "timeMonth": 2095,
     "timeYear": 1821,
     "dailyMinutesDown": {
+      "2024-12-15": 0,
       "2024-12-13": 32,
       "2024-12-09": 33,
       "2024-12-01": 37,
