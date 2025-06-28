@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/dieschoenewolke.de.ico",
     "slug": "die-schoene-wolke",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "99.06%",
+    "uptime": "99.05%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "99.05%",
     "time": 2341,
-    "timeDay": 1893,
-    "timeWeek": 2968,
+    "timeDay": 2277,
+    "timeWeek": 3001,
     "timeMonth": 2418,
     "timeYear": 2341,
     "dailyMinutesDown": {
-      "2025-06-27": 12,
       "2025-06-26": 24,
       "2025-06-19": 16,
       "2025-06-12": 19,
@@ -102,7 +101,8 @@
       "2024-12-16": 40,
       "2024-12-15": 41,
       "2024-12-13": 32,
-      "2024-12-09": 33
+      "2024-12-09": 33,
+      "2024-12-01": 37
     }
   },
   {
