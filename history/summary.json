@@ -6,17 +6,16 @@
     "slug": "die-schoene-wolke",
     "status": "up",
     "uptime": "98.73%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "93.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "93.93%",
     "uptimeYear": "98.73%",
     "time": 2368,
-    "timeDay": 5383,
+    "timeDay": 6161,
     "timeWeek": 3131,
     "timeMonth": 2656,
     "timeYear": 2368,
     "dailyMinutesDown": {
-      "2025-08-05": 8,
       "2025-08-02": 38,
       "2025-08-01": 23,
       "2025-07-31": 16,
@@ -106,7 +105,8 @@
       "2025-02-01": 40,
       "2025-01-31": 37,
       "2025-01-29": 38,
-      "2025-01-28": 38
+      "2025-01-28": 38,
+      "2025-01-27": 22
     }
   },
   {
