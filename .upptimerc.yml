@@ -6,10 +6,12 @@ sites:
     url: https://dieschoenewolke.de
   - name: Arcane
     url: $SECRET_ARCANE
-  - name: Kanidm
-    url: $SECRET_KANIDM 
   - name: Forgejo
     url: $SECRET_FORGEJO
+  - name: Kanidm
+    url: $SECRET_KANIDM
+  - name: Radicale
+    url: $SECRET_RADICALE
   - name: Vaultwarden
     url:  $SECRET_VAULTWARDEN
   - name: DieSchoeneWolke Mail
