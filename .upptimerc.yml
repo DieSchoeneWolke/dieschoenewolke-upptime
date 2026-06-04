@@ -38,7 +38,7 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-user-agent: 
+user-agent: DieSchoeneWolke
 
 i18n:
   footer: "[**Upptime**](https://upptime.js.org/) ist der Open-Source-Update-Monitor und die Statusseite, die vollständig von GitHub angetrieben wird."
