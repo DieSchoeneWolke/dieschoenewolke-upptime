@@ -4,9 +4,19 @@ repo: dieschoenewolke-upptime  # The name of this repository
 sites:
   - name: DieSchoeneWolke
     url: https://dieschoenewolke.de
+  - name: Arcane
+    url: $SECRET_ARCANE
+  - name: Kanidm
+    url: $SECRET_KANIDM 
+  - name: Forgejo
+    url: $SECRET_FORGEJO
+  - name: Vaultwarden
+    url:  $SECRET_VAULTWARDEN
   - name: DieSchoeneWolke Mail
-    url: https://mail.dieschoenewolke.de/
-
+    check: "tcp-ping"
+    url:  $SECRET_MAIL
+    port: 25
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -22,12 +32,13 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Kontakt
-      href: mailto://kontakt@mail.dieschoenewolke.de
-
+      href: mailto://kontakt@dieschoenewolke.de
+  robotsText: "User-agent: * \n Disallow: /"
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 
-user-agent: DieSchoeneWolke
+user-agent: 
 
 i18n:
   footer: "[**Upptime**](https://upptime.js.org/) ist der Open-Source-Update-Monitor und die Statusseite, die vollständig von GitHub angetrieben wird."
