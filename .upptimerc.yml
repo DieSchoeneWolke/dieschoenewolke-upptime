@@ -10,6 +10,8 @@ sites:
     url: $SECRET_FORGEJO
   - name: Kanidm
     url: $SECRET_KANIDM
+  - name: Opencloud
+    url: $SECRET_OPENCLOUD
   - name: Radicale
     url: $SECRET_RADICALE
   - name: Vaultwarden
