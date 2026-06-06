@@ -1,7 +1,7 @@
 url: $SECRET_KANIDM
-status: down
-code: 502
-responseTime: 3481
-lastUpdated: 2026-06-06T07:20:17.236Z
+status: up
+code: 200
+responseTime: 1329
+lastUpdated: 2026-06-06T08:13:43.355Z
 startTime: 2026-06-04T10:37:17.831Z
 generator: Upptime <https://github.com/upptime/upptime>
