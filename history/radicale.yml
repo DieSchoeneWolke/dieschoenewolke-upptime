@@ -1,7 +1,7 @@
 url: $SECRET_RADICALE
-status: down
-code: 502
-responseTime: 3460
-lastUpdated: 2026-06-25T15:23:07.105Z
+status: up
+code: 200
+responseTime: 1864
+lastUpdated: 2026-06-25T19:20:13.545Z
 startTime: 2026-06-04T11:04:14.462Z
 generator: Upptime <https://github.com/upptime/upptime>
