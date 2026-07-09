@@ -1,7 +1,7 @@
 url: $SECRET_VAULTWARDEN
-status: up
-code: 200
-responseTime: 736
-lastUpdated: 2026-07-09T00:03:58.885Z
+status: down
+code: 502
+responseTime: 3348
+lastUpdated: 2026-07-09T08:46:51.575Z
 startTime: 2026-06-04T10:37:20.601Z
 generator: Upptime <https://github.com/upptime/upptime>
