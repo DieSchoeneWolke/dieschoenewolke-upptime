@@ -1,7 +1,7 @@
 url: $SECRET_ARCANE
-status: up
-code: 200
-responseTime: 544
-lastUpdated: 2026-07-20T23:51:45.956Z
+status: down
+code: 502
+responseTime: 3356
+lastUpdated: 2026-07-21T14:25:10.879Z
 startTime: 2026-06-04T10:37:16.705Z
 generator: Upptime <https://github.com/upptime/upptime>
