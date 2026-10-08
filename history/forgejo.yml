@@ -1,7 +1,7 @@
 url: $SECRET_FORGEJO
-status: down
-code: 502
-responseTime: 3375
-lastUpdated: 2026-10-08T02:24:09.317Z
+status: up
+code: 200
+responseTime: 544
+lastUpdated: 2026-10-08T13:06:49.212Z
 startTime: 2026-06-04T10:37:19.429Z
 generator: Upptime <https://github.com/upptime/upptime>
