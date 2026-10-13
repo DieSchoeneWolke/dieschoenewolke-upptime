@@ -1,7 +1,7 @@
 url: $SECRET_VAULTWARDEN
 status: down
 code: 502
-responseTime: 3415
-lastUpdated: 2026-10-12T20:28:22.270Z
+responseTime: 3284
+lastUpdated: 2026-10-13T03:20:27.768Z
 startTime: 2026-06-04T10:37:20.601Z
 generator: Upptime <https://github.com/upptime/upptime>
