@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dieschoenewolke.de.ico",
     "slug": "die-schoene-wolke",
     "status": "down",
-    "uptime": "98.72%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "87.70%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "98.36%",
+    "uptime": "98.64%",
+    "uptimeDay": "35.04%",
+    "uptimeWeek": "82.07%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "98.19%",
     "time": 1533,
-    "timeDay": 513,
-    "timeWeek": 1439,
-    "timeMonth": 1078,
+    "timeDay": 0,
+    "timeWeek": 1192,
+    "timeMonth": 1088,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2026-06-05": 88,
@@ -37,7 +37,8 @@
       "2026-10-07": 554,
       "2026-10-13": 1021,
       "2026-10-12": 213,
-      "2026-10-19": 5
+      "2026-10-20": 149,
+      "2026-10-19": 786
     }
   },
   {
@@ -46,15 +47,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "forgejo",
     "status": "down",
-    "uptime": "92.87%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "87.71%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "92.87%",
+    "uptime": "92.43%",
+    "uptimeDay": "35.06%",
+    "uptimeWeek": "82.07%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "92.43%",
     "time": 831,
-    "timeDay": 620,
-    "timeWeek": 1270,
-    "timeMonth": 973,
+    "timeDay": 0,
+    "timeWeek": 1002,
+    "timeMonth": 980,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2026-06-09": 457,
@@ -80,7 +81,8 @@
       "2026-10-07": 554,
       "2026-10-13": 1021,
       "2026-10-12": 213,
-      "2026-10-19": 5
+      "2026-10-20": 149,
+      "2026-10-19": 786
     }
   },
   {
@@ -89,15 +91,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kanidm",
     "status": "down",
-    "uptime": "95.96%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "95.96%",
+    "uptime": "95.51%",
+    "uptimeDay": "35.07%",
+    "uptimeWeek": "82.07%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "95.51%",
     "time": 2275,
-    "timeDay": 1447,
-    "timeWeek": 1939,
-    "timeMonth": 1667,
+    "timeDay": 0,
+    "timeWeek": 1754,
+    "timeMonth": 1683,
     "timeYear": 2275,
     "dailyMinutesDown": {
       "2026-06-05": 87,
@@ -119,7 +121,8 @@
       "2026-10-07": 554,
       "2026-10-13": 1021,
       "2026-10-12": 212,
-      "2026-10-19": 5
+      "2026-10-20": 149,
+      "2026-10-19": 786
     }
   },
   {
@@ -128,15 +131,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "radicale",
     "status": "down",
-    "uptime": "95.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "87.72%",
-    "uptimeMonth": "94.11%",
-    "uptimeYear": "95.98%",
+    "uptime": "95.53%",
+    "uptimeDay": "35.09%",
+    "uptimeWeek": "82.07%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "95.53%",
     "time": 1662,
-    "timeDay": 1389,
-    "timeWeek": 2010,
-    "timeMonth": 1769,
+    "timeDay": 0,
+    "timeWeek": 1834,
+    "timeMonth": 1783,
     "timeYear": 1662,
     "dailyMinutesDown": {
       "2026-06-05": 87,
@@ -157,7 +160,8 @@
       "2026-10-07": 553,
       "2026-10-13": 1021,
       "2026-10-12": 212,
-      "2026-10-19": 5
+      "2026-10-20": 149,
+      "2026-10-19": 786
     }
   },
   {
@@ -166,15 +170,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vaultwarden",
     "status": "down",
-    "uptime": "95.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "87.73%",
-    "uptimeMonth": "94.12%",
-    "uptimeYear": "95.99%",
+    "uptime": "95.54%",
+    "uptimeDay": "35.10%",
+    "uptimeWeek": "82.08%",
+    "uptimeMonth": "91.99%",
+    "uptimeYear": "95.54%",
     "time": 869,
-    "timeDay": 653,
-    "timeWeek": 1352,
-    "timeMonth": 1014,
+    "timeDay": 0,
+    "timeWeek": 1095,
+    "timeMonth": 1025,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2026-06-05": 86,
@@ -195,7 +199,8 @@
       "2026-10-07": 553,
       "2026-10-13": 1021,
       "2026-10-12": 212,
-      "2026-10-19": 4
+      "2026-10-20": 149,
+      "2026-10-19": 785
     }
   },
   {
@@ -204,13 +209,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "die-schoene-wolke-mail",
     "status": "down",
-    "uptime": "97.71%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptime": "97.62%",
+    "uptimeDay": "35.39%",
+    "uptimeWeek": "90.77%",
+    "uptimeMonth": "97.88%",
+    "uptimeYear": "99.63%",
     "time": 597,
-    "timeDay": 94,
+    "timeDay": 0,
     "timeWeek": 122,
     "timeMonth": 118,
     "timeYear": 118,
@@ -218,7 +223,8 @@
       "2026-06-05": 82,
       "2026-07-23": 528,
       "2026-07-22": 396,
-      "2026-10-19": 0
+      "2026-10-20": 149,
+      "2026-10-19": 781
     }
   }
 ]
